@@ -8,7 +8,7 @@ Sergio Sandoval Valenzuela
 
 **Profesor:** Sebastián Vásquez  
 **Carrera:** Analista Programador  
-**Sede:** Santiago Online  
+**Sede:** Online  
 
 ---
 
