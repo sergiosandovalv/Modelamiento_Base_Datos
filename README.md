@@ -6,7 +6,9 @@
 Sergio Sandoval Valenzuela  
 
 **Profesor:** Sebastián Vásquez Basaez 
+
 **Carrera:** Analista Programador  
+
 **Sede:** Online  
 
 ---
