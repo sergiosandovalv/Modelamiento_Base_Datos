@@ -31,7 +31,7 @@ Como resultado, el repositorio contiene:
 
 - El documento Word con las evidencias de la actividad.
 - El archivo comprimido con el diseño realizado en Oracle SQL Developer Data Modeler.
-- El script DDL generado desde el Modelo Relacional.
+
 
 ---
 
