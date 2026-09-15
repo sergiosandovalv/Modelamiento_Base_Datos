@@ -15,7 +15,7 @@
 
 ## 📖 1. Introducción
 
-Este repositorio contiene el desarrollo de la actividad sumativa correspondiente a la **Semana 5** de la asignatura Modelamiento de Base de Datos.
+Este repositorio contiene el desarrollo de la actividad sumativa correspondiente a la **Semana 5** de la asignatura Modelamiento de Base de Datos I.
 
 El trabajo se basa en el caso **Retail Solari S.A.** y tiene como objetivo normalizar el modelo entregado, construir el **Modelo Entidad-Relación Extendido (MER-E)** y transformarlo en un **Modelo Relacional (MR)**.
 
