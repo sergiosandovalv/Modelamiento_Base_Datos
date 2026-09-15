@@ -2,8 +2,8 @@
 
 # 🧠 Evaluación – Modelamiento de Base de Datos
 
-**Integrante:**  
-Sergio Sandoval Valenzuela  
+**Integrante:** Sergio Sandoval Valenzuela 
+ 
 
 **Profesor:** Sebastián Vásquez Basaez 
 
