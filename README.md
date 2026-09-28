@@ -2,6 +2,7 @@
 
 **Integrantes:** 
 Gabriela Gonzalez Peirano
+
 Sergio Sandoval Valenzuela  
 **Profesor:** Sebastián Vásquez Basaez  
 **Carrera:** Analista Programador  
