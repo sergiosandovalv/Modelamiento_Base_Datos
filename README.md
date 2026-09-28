@@ -1,9 +1,6 @@
 # 🧠 Modelamiento de Base de Datos
 
-**Integrantes:**
-Gabriela Gonzalez Peirano
-
-Sergio Sandoval Valenzuela  
+**Integrantes:** Gabriela Gonzalez Peirano | Sergio Sandoval Valenzuela 
 **Profesor:** Sebastián Vásquez Basaez  
 **Carrera:** Analista Programador  
 **Sede:** Santiago Online  
