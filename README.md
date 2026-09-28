@@ -1,61 +1,70 @@
-![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+# 🧠 Modelamiento de Base de Datos
 
-# 🧠 Evaluación – Modelamiento de Base de Datos
-
-**Integrante:** Sergio Sandoval Valenzuela 
- 
-
-**Profesor:** Sebastián Vásquez Basaez 
-
+**Integrantes:** 
+Gabriela Gonzalez Peirano
+Sergio Sandoval Valenzuela  
+**Profesor:** Sebastián Vásquez Basaez  
 **Carrera:** Analista Programador  
-
-**Sede:** Online  
-
----
-
-## 📖 1. Introducción
-
-Este repositorio contiene el desarrollo de la actividad sumativa correspondiente a la **Semana 5** de la asignatura Modelamiento de Base de Datos I.
-
-El trabajo se basa en el caso **Retail Solari S.A.** y tiene como objetivo normalizar el modelo entregado, construir el **Modelo Entidad-Relación Extendido (MER-E)** y transformarlo en un **Modelo Relacional (MR)**.
-
-Para su desarrollo se utilizó **Oracle SQL Developer Data Modeler**, aplicando las reglas de negocio y las tres primeras formas normales.
+**Sede:** Santiago Online  
 
 ---
 
-## 🎯 2. Propósito del proyecto
+## 📖 Actividad actual – Semana 7
 
-El propósito de esta actividad es desarrollar un **MER-E normalizado en notación Barker**, transformarlo a un **Modelo Relacional Normalizado** y generar el correspondiente **script DDL** para Oracle.
+Este repositorio contiene el desarrollo de la actividad formativa correspondiente a la **Semana 7** de la asignatura Modelamiento de Base de Datos.
 
-Como resultado, el repositorio contiene:
-
-- El documento Word con las evidencias de la actividad.
-- El archivo comprimido con el diseño realizado en Oracle SQL Developer Data Modeler.
-
+El trabajo se basa en el caso **Holding Carpenter SPA** y tiene como objetivo implementar, poblar y consultar un modelo relacional utilizando Oracle SQL Developer.
 
 ---
 
-## 🛠️ 3. Herramientas utilizadas
+## 🎯 Propósito
 
-- Oracle SQL Developer Data Modeler.
-- Oracle Database 11g para la generación del script DDL.
-- GitHub para el almacenamiento de los archivos de la actividad.
+Implementar el modelo relacional entregado, aplicando:
+
+- Creación de tablas mediante DDL.
+- Claves primarias y foráneas.
+- Restricciones `NOT NULL`, `UNIQUE` y `CHECK`.
+- Columnas `IDENTITY`.
+- Modificaciones mediante `ALTER TABLE`.
+- Objetos `SEQUENCE`.
+- Poblamiento mediante `INSERT`.
+- Uso de `NEXTVAL`.
+- Confirmación de datos mediante `COMMIT`.
+- Consultas `SELECT`.
+- Alias, concatenaciones y cálculos matemáticos.
+- Ordenamiento mediante `ORDER BY`.
 
 ---
 
-## 📂 4. Archivos principales
+## 🛠️ Herramientas utilizadas
 
-- `Exp2_S5_Sergio_Sandoval.docx`
-- `Exp2_S5_Sergio_Sandoval.zip`
-
+- Oracle SQL Developer.
+- Oracle Cloud Database.
+- Git.
+- GitHub.
 
 ---
 
-## ✅ 5. Resultado
+## 📂 Archivo Semana 7
 
-Se desarrolló el **MER-E Normalizado**, el **Modelo Relacional Normalizado** y el **script DDL**, aplicando las reglas de transformación, claves primarias, claves foráneas, relaciones y normalización solicitadas para el caso Retail Solari S.A.
+- `Exp3_S7_Grupo10.sql`
 
-El script DDL fue generado correctamente con:
+El script contiene:
 
-- **Errors:** 0
-- **Warnings:** 0
+1. Limpieza inicial de tablas y secuencias mediante `DROP`.
+2. Creación del modelo relacional.
+3. Restricciones de integridad.
+4. Modificaciones solicitadas mediante `ALTER TABLE`.
+5. Creación de secuencias.
+6. Poblamiento de las tablas requeridas.
+7. Confirmación mediante `COMMIT`.
+8. Informes solicitados mediante `SELECT`.
+
+---
+
+## ✅ Resultado
+
+El script fue probado de forma secuencial en Oracle SQL Developer, desde las sentencias `DROP` iniciales hasta los informes finales, ejecutándose sin errores Oracle.
+
+---
+
