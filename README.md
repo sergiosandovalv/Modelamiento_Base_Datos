@@ -1,3 +1,5 @@
+![Duoc UC](https://www.duoc.cl/wp-content/uploads/2022/09/logo-0.png)
+
 # 🧠 Modelamiento de Base de Datos
 
 **Integrantes:** Gabriela Gonzalez Peirano | Sergio Sandoval Valenzuela 
