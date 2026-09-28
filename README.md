@@ -55,7 +55,7 @@ Implementar el modelo relacional entregado, aplicando:
 El script contiene:
 
 1. Limpieza inicial de tablas y secuencias mediante `DROP`.
-2. Creación del modelo relacional.
+2. Implementación del modelo relacional entregado.
 3. Restricciones de integridad.
 4. Modificaciones solicitadas mediante `ALTER TABLE`.
 5. Creación de secuencias.
