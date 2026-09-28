@@ -1,7 +1,6 @@
 # 🧠 Modelamiento de Base de Datos
 
-**Integrantes:** 
-
+**Integrantes:**
 Gabriela Gonzalez Peirano
 Sergio Sandoval Valenzuela  
 **Profesor:** Sebastián Vásquez Basaez  
