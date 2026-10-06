@@ -2,7 +2,7 @@
 
 # 🧠 Modelamiento de Base de Datos
 
-**Integrantes:** Gabriela Gonzalez Peirano | Sergio Sandoval Valenzuela 
+**Estudiante:** Sergio Sandoval Valenzuela  
 
 **Profesor:** Sebastián Vásquez Basaez  
 
@@ -12,11 +12,11 @@
 
 ---
 
-## 📖 Actividad actual – Semana 7
+## 📖 Actividad actual – Semana 8
 
-Este repositorio contiene el desarrollo de la actividad formativa correspondiente a la **Semana 7** de la asignatura Modelamiento de Base de Datos.
+Este repositorio contiene el desarrollo de la actividad sumativa correspondiente a la **Semana 8** de la asignatura Modelamiento de Base de Datos.
 
-El trabajo se basa en el caso **Holding Carpenter SPA** y tiene como objetivo implementar, poblar y consultar un modelo relacional utilizando Oracle SQL Developer.
+El trabajo se basa en el caso **Taller Mecánico Mikes Ltda.** y tiene como objetivo implementar, modificar, poblar y consultar un modelo relacional utilizando Oracle SQL Developer.
 
 ---
 
@@ -35,6 +35,8 @@ Implementar el modelo relacional entregado, aplicando:
 - Confirmación de datos mediante `COMMIT`.
 - Consultas `SELECT`.
 - Alias, concatenaciones y cálculos matemáticos.
+- Filtros mediante `WHERE`.
+- Uso de `IS NULL`, `AND`, `OR` y `BETWEEN`.
 - Ordenamiento mediante `ORDER BY`.
 
 ---
@@ -48,9 +50,9 @@ Implementar el modelo relacional entregado, aplicando:
 
 ---
 
-## 📂 Archivo Semana 7
+## 📂 Archivo Semana 8
 
-- `Exp3_S7_Grupo10.sql`
+- `Exp3_S8_Sergio_Sandoval.sql`
 
 El script contiene:
 
@@ -68,6 +70,3 @@ El script contiene:
 ## ✅ Resultado
 
 El script fue probado de forma secuencial en Oracle SQL Developer, desde las sentencias `DROP` iniciales hasta los informes finales, ejecutándose sin errores Oracle.
-
----
-
